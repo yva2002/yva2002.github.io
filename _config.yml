@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yamini Vibha Ananth"
   avatar           : "profile.png"
-  bio              : "Applied Math, Computer Science @ Columbia University Engineering"
+  bio              : "Applied Math + CS Student"
   location         : "New York City"
-  employer         :
+  employer         : "Columbia University"
   pubmed           : 
   googlescholar    :
-  email            :
+  email            :  yva2002@columbia.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yaminivibha/"
+  linkedin         : "yaminivibha"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
