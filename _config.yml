@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yamini Vibha Ananth"
 title_separator          : "-"
 name                     : &name "Yamini Vibha Ananth"
-description              : &description "Math+CS Student"
+description              : &description "Math+CS Student @ Columbia Engineering"
 url                      : https://yva2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yva2002/yva2002.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yamini Vibha Ananth"
   avatar           : "profile.png"
-  bio              : "Applied Math + CS Student"
+  bio              : "Applied Math + CS Student @ Columbia Engineering"
   location         : "New York City"
-  employer         : "Columbia University"
+  employer         : 
   pubmed           : 
   googlescholar    :
   email            :  yva2002@columbia.edu
